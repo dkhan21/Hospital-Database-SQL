@@ -7,11 +7,11 @@ This project involves designing and implementing a hospital database using SQL D
 ## Contributors
 - [dkhan21](https://github.com/dkhan21)
 - [jackr276](https://github.com/jackr276)
-
+- [Danielhr19](https://github.com/Danielhr19)
 
 ## SQL Source Code
-- Check the ProjectDDLStatements.sql file for Tables
-- Check the ProjectInsertStatements.sql for Data Insertion Values
+- Check the [DDL File for Tables](ProjectDDLStatements.sql)
+- Check the [DML File for Table Values](ProjectInsertionStatements.sql)
 
 ## Entity Relationship Diagram
 ![ERD](EntityRelationshipDiagram.png)
