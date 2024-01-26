@@ -5,8 +5,9 @@ I took a Database System Design and Management course and created a database pro
 This project involves designing and implementing a hospital database using SQL Data Definition Language (DDL) for creating tables and Data Manipulation Language (DML) for inserting, updating, and querying data. The database efficiently organizes and manages hospital information, ensuring seamless operations and easy retrieval of patient, staff, and medical data for streamlined healthcare management.
 
 ## Contributors
-- dkhan21
-- jackr276
+- [dkhan21](https://github.com/dkhan21)
+- [jackr276](https://github.com/jackr276)
+
 
 ## SQL Source Code
 - Check the ProjectDDLStatements.sql file for Tables
