@@ -11,7 +11,7 @@ This project involves designing and implementing a hospital database using SQL D
 
 ## SQL Source Code
 - Check the [DDL File for Tables](ProjectDDLStatements.sql)
-- Check the [DML File for Table Values](ProjectInsertionStatements.sql)
+- Check the [DML File for Table's Values](ProjectInsertionStatements.sql)
 
 ## Entity Relationship Diagram
 ![ERD](EntityRelationshipDiagram.png)
