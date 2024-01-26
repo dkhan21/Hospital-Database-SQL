@@ -6,7 +6,7 @@ This project involves designing and implementing a hospital database using SQL D
 
 ## Contributors
 - dkhan21
-- jack276
+- jackr276
 
 ## SQL Source Code
 - Check the ProjectDDLStatements.sql file for Tables
